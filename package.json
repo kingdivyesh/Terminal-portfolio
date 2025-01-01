@@ -1,7 +1,7 @@
 {
   "name": "Termi",
   "version": "1.0.0",
-  "description": "Raghav_Goel's Personal Portfolio",
+  "description": "Divyesh_Haldankar's Personal Portfolio",
   "main": "js/cli.js",
   "scripts": {
     "dev": "http-server -o",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raghav2130/Termi-portfolio.git"
+    "url": "https://github.com/kingdivyesh/Terminal-portfolio"
   },
   "author": "Divyesh Haldankar <crown.kingdivyesh15@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raghav2130/Termi-portfolio/issues"
+    "url": "https://github.com/kingdivyesh/Terminal-portfolios"
   },
-  "homepage": "https://github.com/raghav2130/Termi-portfolio#readme",
+  "homepage": "https://github.com/kingdivyesh/Terminal-portfolio",
   "devDependencies": {
     "http-server": "^14.1.1",
     "prettier": "^2.0.2"
