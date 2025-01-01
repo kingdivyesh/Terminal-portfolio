@@ -1,0 +1,25 @@
+{
+  "name": "Termi",
+  "version": "1.0.0",
+  "description": "Raghav_Goel's Personal Portfolio",
+  "main": "js/cli.js",
+  "scripts": {
+    "dev": "http-server -o",
+    "format": "prettier --write 'src/*.js'",
+    "lint": "prettier --check 'src/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghav2130/Termi-portfolio.git"
+  },
+  "author": "Divyesh Haldankar <crown.kingdivyesh15@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghav2130/Termi-portfolio/issues"
+  },
+  "homepage": "https://github.com/raghav2130/Termi-portfolio#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "prettier": "^2.0.2"
+  }
+}
